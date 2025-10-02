@@ -1,0 +1,15 @@
+# Node and build ignores
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+backend/artifacts/
+backend/cache/
+frontend/out/
+frontend/.next/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+dist/
